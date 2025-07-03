@@ -153,11 +153,11 @@ See [`LICENSE`](https://opensource.org/licenses/MIT) for more details.
 
 ## 📧 Contact
 
-**Habibullah**  
-📧 contact@quizgenerator.edu  
-🔗 [GitHub](https://github.com/yourusername)
+**Habib Parvej**  
+📧 habibparvej777@gmail.com 
+🔗 [GitHub](https://github.com/HabibPArvej)
 
-Project Repository: [https://github.com/yourusername/QuizGen](https://github.com/yourusername/QuizGen)
+Project Repository: [https://github.com/yourusername/QuizGen](https://github.com/HabibParvej/QuizGen)
 
 ---
 
