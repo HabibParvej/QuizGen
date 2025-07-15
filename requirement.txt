@@ -1,0 +1,12 @@
+streamlit==1.38.0
+python-dotenv==1.0.1
+pandas==2.2.2
+langchain-groq==0.2.0
+langchain-core==0.3.6
+pyttsx3==2.90
+pypdf2==3.0.1
+python-docx==1.1.2
+matplotlib==3.9.2
+pillow==10.4.0
+numpy==2.1.1
+streamlit-javascript==0.1.5
